@@ -8,3 +8,4 @@
 0649. 📚 docs: update README with setup steps
 0552. 🐛 fix: fix null pointer exception on login
 0089. 🔧 refactor: remove redundant code blocks
+0963. 🚀 perf: reduce image load time
