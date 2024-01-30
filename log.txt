@@ -21,3 +21,4 @@
 0899. 🚀 perf: cache repeated calculations
 0949. 📚 docs: write FAQ section
 0055. 📚 docs: update README with setup steps
+0848. 📚 docs: update README with setup steps
