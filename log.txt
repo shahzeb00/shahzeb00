@@ -41,3 +41,4 @@
 0016. 🎨 style: apply consistent indentation
 0144. ✅ test: increase coverage on auth module
 0804. ♻️ chore: add GitHub actions badge
+0989. 📚 docs: write FAQ section
