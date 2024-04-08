@@ -42,3 +42,4 @@
 0144. ✅ test: increase coverage on auth module
 0804. ♻️ chore: add GitHub actions badge
 0989. 📚 docs: write FAQ section
+0233. 🚀 perf: lazy-load components
