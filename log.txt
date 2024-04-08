@@ -43,3 +43,4 @@
 0804. ♻️ chore: add GitHub actions badge
 0989. 📚 docs: write FAQ section
 0233. 🚀 perf: lazy-load components
+0203. 🚀 perf: lazy-load components
