@@ -44,3 +44,4 @@
 0989. 📚 docs: write FAQ section
 0233. 🚀 perf: lazy-load components
 0203. 🚀 perf: lazy-load components
+0186. ✅ test: test user registration edge cases
