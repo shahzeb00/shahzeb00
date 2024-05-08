@@ -51,3 +51,4 @@
 0650. ✅ test: add unit test for quiz service
 0415. 🐛 fix: handle 500 error in quiz API
 0051. ✨ feat: enable dark mode toggle
+0543. ✨ feat: support email verification
