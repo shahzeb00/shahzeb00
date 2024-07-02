@@ -67,3 +67,4 @@
 0703. 🔧 refactor: clean up auth middleware
 0653. 🐛 fix: prevent crash on empty input
 0291. 📚 docs: write FAQ section
+0834. ✅ test: increase coverage on auth module
