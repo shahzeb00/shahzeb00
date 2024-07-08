@@ -69,3 +69,4 @@
 0291. 📚 docs: write FAQ section
 0834. ✅ test: increase coverage on auth module
 0394. 🚀 perf: lazy-load components
+0772. 🐛 fix: fix null pointer exception on login
