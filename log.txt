@@ -75,3 +75,4 @@
 0838. 🎨 style: standardize quote style
 0143. ✨ feat: implement quiz timer feature
 0875. ✅ test: increase coverage on auth module
+0466. 🚀 perf: optimize database query for quiz results
