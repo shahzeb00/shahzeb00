@@ -81,3 +81,4 @@
 0309. 🔧 refactor: refactor quiz grading logic
 0243. 🔧 refactor: clean up auth middleware
 0680. ♻️ chore: add GitHub actions badge
+0010. ✨ feat: add user authentication
