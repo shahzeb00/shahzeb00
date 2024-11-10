@@ -92,3 +92,4 @@
 0477. 🐛 fix: fix broken CSS in mobile view
 0753. 🔧 refactor: remove redundant code blocks
 0125. ✅ test: add integration test for /submit endpoint
+0583. ✅ test: increase coverage on auth module
