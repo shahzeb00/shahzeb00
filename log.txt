@@ -98,3 +98,4 @@
 0639. 🐛 fix: correct typo in registration form
 0632. 🎨 style: remove trailing whitespace
 0114. ♻️ chore: update .gitignore
+0264. 🚀 perf: optimize database query for quiz results
