@@ -99,3 +99,4 @@
 0632. 🎨 style: remove trailing whitespace
 0114. ♻️ chore: update .gitignore
 0264. 🚀 perf: optimize database query for quiz results
+0225. 🚀 perf: reduce image load time
