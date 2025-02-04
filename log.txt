@@ -108,3 +108,4 @@
 0925. ✨ feat: add export to CSV option
 0508. ✅ test: add unit test for quiz service
 0376. 🎨 style: apply consistent indentation
+0585. 🚀 perf: lazy-load components
