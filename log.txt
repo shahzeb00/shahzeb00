@@ -111,3 +111,4 @@
 0585. 🚀 perf: lazy-load components
 0383. 🐛 fix: fix broken CSS in mobile view
 0269. ✅ test: test user registration edge cases
+0180. ✨ feat: add export to CSV option
