@@ -113,3 +113,4 @@
 0269. ✅ test: test user registration edge cases
 0180. ✨ feat: add export to CSV option
 0079. 🐛 fix: correct typo in registration form
+0248. 🐛 fix: handle 500 error in quiz API
