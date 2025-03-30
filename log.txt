@@ -120,3 +120,4 @@
 0695. ✨ feat: create admin dashboard
 0339. 📚 docs: update README with setup steps
 0886. ♻️ chore: clean up unused files
+0701. 🔧 refactor: clean up auth middleware
