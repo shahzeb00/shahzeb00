@@ -139,3 +139,4 @@
 0219. ✅ test: increase coverage on auth module
 0484. 🐛 fix: handle 500 error in quiz API
 0528. ♻️ chore: clean up unused files
+0044. ✅ test: add unit test for quiz service
