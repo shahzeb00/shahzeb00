@@ -146,3 +146,4 @@
 0652. 🔧 refactor: organize models into subfolders
 0958. 🐛 fix: prevent crash on empty input
 0648. ♻️ chore: bump dependencies
+0675. 🔧 refactor: organize models into subfolders
