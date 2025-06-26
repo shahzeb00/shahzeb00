@@ -149,3 +149,4 @@
 0675. 🔧 refactor: organize models into subfolders
 0734. ✨ feat: add export to CSV option
 0577. ✨ feat: implement quiz timer feature
+0888. 🚀 perf: lazy-load components
