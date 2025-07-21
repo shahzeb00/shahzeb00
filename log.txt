@@ -152,3 +152,4 @@
 0888. 🚀 perf: lazy-load components
 0603. 🐛 fix: fix broken CSS in mobile view
 0409. 🚀 perf: lazy-load components
+0097. 🐛 fix: handle 500 error in quiz API
