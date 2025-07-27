@@ -153,3 +153,4 @@
 0603. 🐛 fix: fix broken CSS in mobile view
 0409. 🚀 perf: lazy-load components
 0097. 🐛 fix: handle 500 error in quiz API
+0553. 🐛 fix: correct typo in registration form
