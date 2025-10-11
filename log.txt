@@ -182,3 +182,4 @@
 0118. 🚀 perf: reduce image load time
 0306. 🎨 style: apply consistent indentation
 0148. 🔧 refactor: organize models into subfolders
+0689. 🎨 style: reformat files with black
