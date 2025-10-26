@@ -185,3 +185,4 @@
 0689. 🎨 style: reformat files with black
 0973. 🔧 refactor: organize models into subfolders
 0884. 📚 docs: clarify environment setup
+0222. 🐛 fix: handle 500 error in quiz API
