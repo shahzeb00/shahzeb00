@@ -188,3 +188,4 @@
 0222. 🐛 fix: handle 500 error in quiz API
 0491. 🚀 perf: lazy-load components
 0618. ✨ feat: support email verification
+0655. 🚀 perf: cache repeated calculations
