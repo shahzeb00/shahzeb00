@@ -192,3 +192,4 @@
 0028. 🎨 style: standardize quote style
 0149. ✨ feat: add export to CSV option
 0879. 🎨 style: standardize quote style
+0818. 🔧 refactor: remove redundant code blocks
