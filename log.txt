@@ -196,3 +196,4 @@
 0241. 📚 docs: add API usage examples
 0024. 📚 docs: write FAQ section
 0964. ♻️ chore: clean up unused files
+0785. ✨ feat: enable dark mode toggle
