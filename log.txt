@@ -197,3 +197,4 @@
 0024. 📚 docs: write FAQ section
 0964. ♻️ chore: clean up unused files
 0785. ✨ feat: enable dark mode toggle
+0960. ✅ test: increase coverage on auth module
